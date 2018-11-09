@@ -2,7 +2,8 @@ var iocipher = function(){
 
     var str = prompt("Enter in your string");
     var num = prompt("Enter in your number");
-    //code here
+    num = parseInt(num);
+   //code here
 
 
 }
